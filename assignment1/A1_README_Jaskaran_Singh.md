@@ -131,46 +131,13 @@ export default function MediaCard() {
 
 ```
 
-*Lines 130 - 137*
 
-```
-    {/* Pie chart */}
-        <PieChart
-          series={[{ data: chartData }]}
-          width={500}
-          height={230}
-          labelAccessor={({ dataEntry }) => `${dataEntry.value}%`}
-        />
-```
-
-The code above was created by adapting the code in [Charts - Pie](https://mui.com/x/react-charts/pie/#basics) as shown below: 
-
-```
-import * as React from 'react';
-import { PieChart } from '@mui/x-charts/PieChart';
-
-export default function BasicPie() {
-  return (
-    <PieChart
-      series={[
-        {
-          data: [
-            { id: 0, value: 10, label: 'series A' },
-            { id: 1, value: 15, label: 'series B' },
-            { id: 2, value: 20, label: 'series C' },
-          ],
-        },
-      ]}
-      width={400}
-      height={200}
-    />
-  );
-}
-
-```
 
 ### navbar.js
 
+*Lines 7 - 28*
+
+```
 // App bar component with static position
     <AppBar position="static">
       {/* Toolbar for holding the content */}
@@ -194,9 +161,10 @@ export default function BasicPie() {
       </Toolbar>
     </AppBar>
 
+```
+
 The code above was created by adapting the code from YouTube Channel - Codevolution (https://www.youtube.com/watch?v=y9iX6sfB40k&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&index=21&pp=iAQB)
 
-```
 
 ## Acknowledgments
 
