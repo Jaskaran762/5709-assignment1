@@ -138,7 +138,6 @@ export default function MediaCard() {
 *Lines 7 - 28*
 
 ```
-// App bar component with static position
     <AppBar position="static">
       {/* Toolbar for holding the content */}
       <Toolbar>
