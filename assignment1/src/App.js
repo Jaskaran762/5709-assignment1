@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import BasicPie from './components/budget-planner/budget-planner';
 import Navbar from './components/navbar/navbar';

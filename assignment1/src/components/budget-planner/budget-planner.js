@@ -12,7 +12,7 @@ import Dialog from "@mui/material/Dialog";
 import DialogTitle from "@mui/material/DialogTitle";
 import DialogContent from "@mui/material/DialogContent";
 import DialogActions from "@mui/material/DialogActions";
-import { AppBar, Box, Stack, Toolbar } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 
 export default function DynamicPieChart() {
   // State variables
