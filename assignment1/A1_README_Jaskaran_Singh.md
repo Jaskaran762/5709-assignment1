@@ -2,8 +2,8 @@
 
 * *Date Created*: 6 FEBRUARY 2024
 * *Last Modification Date*: 7 FEBRUARY 2024
-* *Assignment URL*: <https://kaleidoscopic-piroshki-3e0f4d.netlify.app/>
-* *Git URL*: <https://git.cs.dal.ca/kathiria/csci-5709-assignments/-/tree/main/Assignment1/>
+* *Assignment URL*: <https://main--feature-jaskaran-assignment1.netlify.app/>
+* *Git URL*: <https://git.cs.dal.ca/singh16/csci-5709-assignments/-/tree/main/assignment1>
 
 ## Authors
 
